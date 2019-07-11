@@ -1,4 +1,4 @@
-n1,m1=map(int,input().split())
+n2,m1=map(int,input().split())
 k=input().split()
 l2=[]
 l3=[]
